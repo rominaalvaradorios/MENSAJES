@@ -1,5 +1,5 @@
 import flet as ft
-from styles.estilos import Buttons, Colors, Inputs, Textos_estilos, Card
+from app.styles.estilos import Buttons, Colors, Inputs, Textos_estilos, Card
 
 def productos_view(page: ft.Page):
 
